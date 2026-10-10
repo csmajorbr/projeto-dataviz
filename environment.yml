@@ -1,0 +1,11 @@
+name: estudos-dados
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - plotly
+prefix: /home/jefferson/miniconda3/envs/estudos-dados
